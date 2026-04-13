@@ -1,0 +1,8 @@
+APIGATEWAYS->LAMBDA_FUNCTIONS->SNS_TOPICS->SQS_QUEUES->LAMBDA_FUNCTIONS->S3(TRIGGER)->
+
+body :
+
+
+{
+    "message": "pending"
+    }
